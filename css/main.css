@@ -1,0 +1,114 @@
+*{ 
+ box-sizing: border-box; 
+ margin: 0; 
+ padding: 0;
+} 
+body{ 
+margin: 0; 
+padding: 0;
+}  
+.contayner{ 
+width: 1215px; 
+margin: 0 auto; 
+padding: 0 20px;
+}  
+
+.site_header{  
+padding: 41px 0 82px 0;
+}
+ .header{ 
+ display: flex; 
+ align-items: center; 
+ justify-content: space-between; 
+} 
+.header_list{  
+ display: flex; 
+ align-items: center; 
+ list-style: none; 
+
+} 
+.header_itim_link{  
+text-decoration: none; 
+margin-left: 40px; 
+font-size: 18px; 
+color: black;
+
+} 
+.activ{ 
+margin-left: 0;
+}  
+   .hero{ 
+display: flex; 
+align-items: center; 
+justify-content: space-between;
+}  
+.hero_section{ 
+ margin: 0; 
+ margin-bottom: 202px;
+
+}
+.hero_content{ 
+width: 715px; 
+
+}  
+.hero_span{ 
+ font-weight: 700; 
+ font-size: 72px; 
+ line-height: 82px; 
+ letter-spacing: 2px; 
+ color: gold;
+}
+.hero_title{ 
+    font-weight: 700; 
+    font-size: 72px; 
+    line-height: 82px; 
+    letter-spacing: 2px; 
+    color: black;  
+    margin-bottom: 34px;
+}
+.hero_card{ 
+ width: 547px; 
+ font-size: 22px;
+line-height: 33px;
+color: #666666;  
+margin-bottom: 38px;
+} 
+.book_link{ 
+  color: azure; 
+  background-color: black; 
+  border: 1px solid black; 
+  padding: 8px; 
+  text-decoration: none; 
+  margin-right: 30px; 
+  font-size: 18px;
+} 
+.dovnload_link{ 
+  margin-right: 50px; 
+  color: black; 
+  font-size: 18px; 
+  
+}  
+.services_content{ 
+text-align: center;
+
+}
+
+.services_title{  
+  display: inline-block; 
+  margin: 0; 
+  margin-bottom: 45px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  color: #000000;
+  text-align: center; 
+
+} 
+.services_icon-blog{ 
+
+width: 862px;  
+margin: 0 auto;
+display: flex; 
+align-items: center; 
+justify-content: space-between;
+}
